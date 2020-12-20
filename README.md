@@ -28,4 +28,32 @@ Computer Enginner From Thapar Institute of enginnering and Technology
 - 📫 How to reach me anshgupta661@gmail.com<br>
 - ⚡ Fun fact You can learn anything for free<br>
 <br><br>
-<a href="https://www.linkedin.com/in/ansh-gupta661/" style="margin: 30px;"><img src="https://simpleicons.org/icons/linkedin.svg" alt="" width="25"></a>
+<a href="https://www.linkedin.com/in/ansh-gupta661/" style="margin: 30px"
+      ><img src="https://simpleicons.org/icons/linkedin.svg" alt="" width="25"
+    /></a>
+    <a
+      href="https://www.facebook.com/ansh.gupta.3998"
+      target="_blank"
+      rel="noopener noreferrer"
+      style="margin: 30px"
+    ><img src="https://simpleicons.org/icons/facebook.svg" alt="" width="25"></a>
+    <a
+      href="https://twitter.com/AGupta661"
+      target="_blank"
+      rel="noopener noreferrer"
+      style="margin: 30px"
+    ><img src="https://simpleicons.org/icons/twitter.svg" alt="" width="25"></a>
+    <a
+      href="https://www.instagram.com/__a_n_s_h_gupta/"
+      target="_blank"
+      rel="noopener noreferrer"
+      style="margin: 30px"
+    ><img src="https://simpleicons.org/icons/instagram.svg" alt="" width="25"></a>
+    <a
+      href="https://github.com/PROFESSORRQ/ARZI-PROGRESS"
+      target="_blank"
+      rel="noopener noreferrer"
+      style="margin: 30px"
+    ><img src="https://simpleicons.org/icons/github.svg" alt="" width="25"></a>
+  </body>
+  <a href=""></a>
