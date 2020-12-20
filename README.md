@@ -28,7 +28,8 @@ Computer Enginner From Thapar Institute of enginnering and Technology
 - 📫 How to reach me<a href="https://mail.google.com/mail/u/0/#inbox">anshgupta661@gmail.com</a><br>
 - ⚡ Fun fact You can learn anything for free<br>
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=PROFESSORRQ&show_icons=true&theme=merko)" alt="Ansh's Github Stats" align="left"><br><br>
+<div style="margin-bottom: 10px;">
+<img src="https://github-readme-stats.vercel.app/api?username=PROFESSORRQ&show_icons=true&theme=merko)" alt="Ansh's Github Stats" align="left"></div><br><br>
 <a href="https://www.linkedin.com/in/ansh-gupta661/" style="margin: 30px"
       ><img src="https://simpleicons.org/icons/linkedin.svg" alt="" width="25"
     /></a>
