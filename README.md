@@ -2,7 +2,7 @@
 My name is [Ansh](https://sites.google.com/view/anshgupta)<br> 
 Completing my 3rd year of graduaion in upcoming 6 months.<br>
 Computer Enginner From Thapar Institute of enginnering and Technology
-
+<hr>
 
 ### Tech Stack
 <p style="margin-right:10px;width:70%">
@@ -19,7 +19,7 @@ Computer Enginner From Thapar Institute of enginnering and Technology
   <img alt="dart" src="https://img.shields.io/badge/-dart-0175C2?logo=DART&logoColor=white" />
   
  
-</p>
+</p><hr>
 - 🔭 I’m currently working on paymnet portal and Whatsapp Clone<br>
 - 🌱 I’m currently learning Web Development HTML CSS JAVASCRIPT<br>
 - 👯 I’m looking to collaborate on App Development using Flutter And Firebase<br>
@@ -27,11 +27,11 @@ Computer Enginner From Thapar Institute of enginnering and Technology
 - 💬 Ask me about latest Technical stuffs<br>
 - 📫 How to reach me<a href="https://mail.google.com/mail/u/0/#inbox">anshgupta661@gmail.com</a><br>
 - ⚡ Fun fact You can learn anything for free<br>
-<br><br>
+<br><hr><br>
 <div style="margin-bottom: 10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=PROFESSORRQ&show_icons=true&theme=merko)" alt="Ansh's Github Stats" align="left"></div><br><br><br><br><br><br><br><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=PROFESSORRQ&show_icons=true&theme=merko)" alt="Ansh's Github Stats" align="left"></div><br><br><br><br><br><br><br><br><br><hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PROFESSORRQ" alt="Ansh's Github Stats" align="left">
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><hr>
 <a href="https://www.linkedin.com/in/ansh-gupta661/" style="margin: 30px"
       ><img src="https://simpleicons.org/icons/linkedin.svg" alt="" width="25"
     /></a>
