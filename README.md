@@ -29,10 +29,8 @@ Computer Enginner From Thapar Institute of enginnering and Technology
 - ⚡ Fun fact You can learn anything for free<br>
 <br><br>
 <div style="margin-bottom: 10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=PROFESSORRQ&show_icons=true&theme=merko)" alt="Ansh's Github Stats" align="left"></div><br><br><br><br><br><br><br><br><br><br>
-<br> 
-  div style="margin-bottom:10px;">
-
+<img src="https://github-readme-stats.vercel.app/api?username=PROFESSORRQ&show_icons=true&theme=merko)" alt="Ansh's Github Stats" align="left"></div>
+<div style="margin-bottom: 10px;">
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PROFESSORRQ)
 
 <!-- ![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meyash&layout=compact&hide=css,html) -->
