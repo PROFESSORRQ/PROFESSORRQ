@@ -57,3 +57,9 @@ Computer Enginner From Thapar Institute of enginnering and Technology
     ><img src="https://simpleicons.org/icons/github.svg" alt="" width="25"></a>
   </body>
   <a href=""></a>
+  <a
+      href="https://www.hackerrank.com/agupta2_be18"
+      target="_blank"
+      rel="noopener noreferrer"
+      style="margin: 30px"
+    ><img src="https://simpleicons.org/icons/hackerrank.svg" alt="" width="25"></a>
