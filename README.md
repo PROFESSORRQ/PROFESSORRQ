@@ -14,6 +14,8 @@ Computer Enginner From Thapar Institute of enginnering and Technology
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-pip-CB3837?logo=python&logoColor=white" />
+  <img alt="flutter" src="https://img.shields.io/badge/-flutter-02569B?logo=Flutter&logoColor=white" />
+  
  
 </p>
 - 🔭 I’m currently working on paymnet portal and Whatsapp Clone<br>
