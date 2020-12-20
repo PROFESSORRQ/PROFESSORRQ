@@ -1,9 +1,10 @@
 ### Hi there 👋
-My name is [Ansh](https://sites.google.com/view/anshgupta) completing my 3rd year of graduaion in upcoming 6 months.
+My name is [Ansh](https://sites.google.com/view/anshgupta)<br> 
+Completing my 3rd year of graduaion in upcoming 6 months.<br>
 Computer Enginner From Thapar Institute of enginnering and Technology
 
 
-###Tech Stack
+###<b>Tech Stack</b>
 <p style="margin-right:10px;width:70%">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-46a2f1?logo=javascript&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
