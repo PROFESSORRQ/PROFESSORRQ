@@ -16,10 +16,10 @@ Computer Enginner From Thapar Institute of enginnering and Technology
   <img alt="npm" src="https://img.shields.io/badge/-pip-CB3837?logo=python&logoColor=white" />
  
 </p>
-- 🔭 I’m currently working on paymnet portal and Whatsapp Clone
-- 🌱 I’m currently learning Web Development HTML CSS JAVASCRIPT
-- 👯 I’m looking to collaborate on App Development using Flutter And Firebase
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about latest Technical stuffs
-- 📫 How to reach me anshgupta661@gmail.com
-- ⚡ Fun fact You can learn anything for free
+- 🔭 I’m currently working on paymnet portal and Whatsapp Clone<br>
+- 🌱 I’m currently learning Web Development HTML CSS JAVASCRIPT<br>
+- 👯 I’m looking to collaborate on App Development using Flutter And Firebase<br>
+- 🤔 I’m looking for help with Flutter/Web <br>
+- 💬 Ask me about latest Technical stuffs<br>
+- 📫 How to reach me anshgupta661@gmail.com<br>
+- ⚡ Fun fact You can learn anything for free<br>
