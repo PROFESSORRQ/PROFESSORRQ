@@ -16,7 +16,7 @@ Computer Enginner From Thapar Institute of enginnering and Technology
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-pip-CB3837?logo=python&logoColor=white" />
   <img alt="flutter" src="https://img.shields.io/badge/-flutter-02569B?logo=Flutter&logoColor=white" />
-  
+  <img alt="dart" src="https://img.shields.io/badge/-dart-0175C2?logo=DART&logoColor=white" />
   
  
 </p>
