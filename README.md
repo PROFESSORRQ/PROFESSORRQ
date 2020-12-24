@@ -25,7 +25,7 @@ Computer Enginner From Thapar Institute of enginnering and Technology
 - 👯 I’m looking to collaborate on App Development using Flutter And Firebase<br>
 - 🤔 I’m looking for help with Flutter/Web <br>
 - 💬 Ask me about latest Technical stuffs<br>
-- 📫 How to reach me<a href="https://mail.google.com/mail/u/0/#inbox">anshgupta661@gmail.com</a><br>
+- 📫 How to reach me <a href="https://mail.google.com/mail/u/0/#inbox">anshgupta661@gmail.com</a><br>
 - ⚡ Fun fact You can learn anything for free<br>
 <br><hr><br>
 <div style="margin-bottom: 10px;">
