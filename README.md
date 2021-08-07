@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is [Ansh](https://sites.google.com/view/anshgupta)<br> 
-Completing my 3rd year of graduaion in upcoming 6 months.<br>
+Completing my 4th year of graduaion in 2022.<br>
 Computer Enginner From Thapar Institute of enginnering and Technology
 <hr>
 
@@ -20,10 +20,8 @@ Computer Enginner From Thapar Institute of enginnering and Technology
   
  
 </p><hr>
-- 🔭 I’m currently working on paymnet portal and Whatsapp Clone<br>
+- 🔭 I’m currently working on a Reserach project <b>real Time Haze Removal System</b><br>
 - 🌱 I’m currently learning Web Development HTML CSS JAVASCRIPT<br>
-- 👯 I’m looking to collaborate on App Development using Flutter And Firebase<br>
-- 🤔 I’m looking for help with Flutter/Web <br>
 - 💬 Ask me about latest Technical stuffs<br>
 - 📫 How to reach me <a href="https://mail.google.com/mail/u/0/#inbox">anshgupta661@gmail.com</a><br>
 - ⚡ Fun fact You can learn anything for free<br>
